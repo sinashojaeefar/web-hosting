@@ -8,7 +8,7 @@ const Newsletter = () => {
       <p className="mb-4">Be the first to know about releases and industry news and insights.</p>
       <form className="flex flex-col md:flex-row items-center justify-center">
         <input type="email" placeholder="Enter your email" className="md:w-[300px] px-4 py-2 text-black rounded-l-lg md:rounded-l-none md:rounded-r-none md:rounded-l-lg mb-4 md:mb-0" />
-        <button type="submit" className="md:w-[150px] bg-red-900 hover:bg-red-950 text-white font-bold py-2 rounded-r-lg md:rounded-l-none md:rounded-r-lg">Subscribe</button>
+        <button type="submit" className="md:w-[150px] bg-red-800 hover:bg-red-950 text-white font-bold py-2 rounded-r-lg md:rounded-l-none md:rounded-r-lg">Subscribe</button>
       </form>
     </div>
   </div>
